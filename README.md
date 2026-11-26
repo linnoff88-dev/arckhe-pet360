@@ -252,7 +252,7 @@ pet360/
 
 ```bash
 # 1. Clone o repositorio
-git clone https://github.com/inematds/pet360.git
+git clone https://github.com/linnoff88-dev/pet360.git
 cd pet360
 
 # 2. Inicie a infraestrutura (PostgreSQL + Redis)
@@ -302,7 +302,7 @@ Senha: admin123
 
 ```bash
 # 1. Clone o repositorio no servidor
-git clone https://github.com/inematds/pet360.git
+git clone https://github.com/linnoff88-dev/pet360.git
 cd pet360
 
 # 2. Configure as variaveis de ambiente
@@ -637,7 +637,7 @@ O dashboard de Analytics fornece metricas em tempo real:
 
 ## Suporte
 
-- **Issues**: [GitHub Issues](https://github.com/inematds/pet360/issues)
+- **Issues**: [GitHub Issues](https://github.com/linnoff88-dev/pet360/issues)
 - **Email**: suporte@pet360.com.br
 
 ---

@@ -445,7 +445,7 @@ O sistema utiliza PostgreSQL com Prisma ORM. Os principais modelos sao:
 #### 1. Clonar o Repositorio
 
 ```bash
-git clone https://github.com/inematds/pet360.git
+git clone https://github.com/linnoff88-dev/pet360.git
 cd pet360
 ```
 
@@ -869,7 +869,7 @@ sudo apt install docker-compose-plugin
 #### 2. Clonar e Configurar
 
 ```bash
-git clone https://github.com/inematds/pet360.git
+git clone https://github.com/linnoff88-dev/pet360.git
 cd pet360
 
 # Configurar variaveis de producao
@@ -1038,7 +1038,7 @@ docker system prune -a
 
 ### Links Uteis
 
-- **Repositorio**: https://github.com/inematds/pet360
+- **Repositorio**: https://github.com/linnoff88-dev/pet360
 - **API Docs**: http://localhost:3001/docs (Swagger)
 - **Prisma Studio**: `npx prisma studio` (visualizar banco)
 
