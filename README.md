@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="ref/photo_5118356803921054612_y.jpg" alt="Pet360 - Sistema Completo de Gestao para Negocios Pet" width="100%"/>
 </p>
 
@@ -654,4 +654,4 @@ Este projeto esta licenciado sob a licenca MIT. Veja o arquivo [LICENSE](LICENSE
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto  - ARCKHÉe

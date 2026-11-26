@@ -614,7 +614,7 @@ SE grande player entrar:
 SE churn > 5%/mes:
 → Programa de ROI garantido
 → Treinamento intensivo
-→ Features de retenção (dados historicos)
+→ Features de retençêo (dados historicos)
 
 SE regulamentacao apertar:
 → Ser o mais compliant do mercado
